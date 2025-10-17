@@ -8,7 +8,7 @@ Personality analysis and astrology tool implemented in Python. Features a graphi
 To install and run this project locally, you will need to have [Python 3.6+](https://www.python.org/) with [IDLE](https://docs.python.org/3/library/idle.html) or an alternative text editor install on your machine.
 ### Clone the repository
 ```bash
-git clone https://github.com/4N0NYM0U5MY7H/personality_calculator.git
+[(https://github.com/mehu11/Personality_Checker/blob/main/README.md)]
 ```
 ### Navigate to the directory
 ```bash
@@ -24,4 +24,5 @@ python __main__.py
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
