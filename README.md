@@ -1,14 +1,3 @@
-<picture>
-  <source
-    srcset=".github/mjc_logo_reverse.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset=".github/mjc_logo.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src=".github/mjc_logo.svg" alt="Modesto Junior College logo." height="80px" />
-</picture>
 
 A simple GUI application that calculates a user's Enneagram, zodiac signs, and bio-rhythm.
 
@@ -35,3 +24,4 @@ python __main__.py
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
